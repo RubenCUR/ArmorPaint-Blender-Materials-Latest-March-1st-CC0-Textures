@@ -17,11 +17,11 @@ Screenshot from Blender:
 
 ## Getting Started
 
-Download the .zip and extract it anywhere on your computer. Use ArmoryPaint or Blender to open the .arm or .blend files respectively. 
+Download the .zip and extract it anywhere on your computer. Use ArmorPaint or Blender to open the .arm or .blend files respectively. 
 
 ### Prerequisites
 
-ArmoryPaint 0.7+ or Blender 2.8+ needs to be installed on your computer to access the materials.
+ArmorPaint 0.7+ or Blender 2.8+ needs to be installed on your computer to access the materials.
 
 
 
