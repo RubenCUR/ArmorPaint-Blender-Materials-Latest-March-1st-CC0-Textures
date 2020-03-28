@@ -1,12 +1,12 @@
-# Arnory-CC0-Textures
+# Armor-CC0-Textures
 
-ArnoryPaint Material
+ArmorPaint Material
 
-# ArnoryPaint Materials
+# ArmorPaint Materials
 
-ArnoryPaint Materials CC0-Textures
+ArmorPaint Materials CC0-Textures
 
-Screenshot from ArmoryPaint:
+Screenshot from ArmorPaint:
 
 ![Image of ArmorPaint - Latest (March 1st CC0) Materials](https://github.com/RubenCUR/ArmorPaint-Materials-CC0-Textures/blob/master/ArmorPaint%20-%20Latest%20(March%201st%20CC0)%20Materials.png)
 
